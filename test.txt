@@ -1,4 +1,5 @@
 1. 正常的main
-2. checkout 出dev分支，并正常提交一次
+2. checkout 出dev分支，并正常提交一次嘿嘿
 3. dev进行正常第二次提交，此时不感知fix行为，因为没有merge main过。
 4. 合并main
+5. 修复xxx
