@@ -1,2 +1,2 @@
-干净地master
+干净的master
 dev1
